@@ -12,4 +12,4 @@ Credentials earned by Riya Joshi.
 
 ### Certificate
 
-![IBM Generative AI using watsonx certificate](./IBM_GenAI_watsonx_Certificate.png)
+![IBM Generative AI using watsonx certificate](./ibm.png)
